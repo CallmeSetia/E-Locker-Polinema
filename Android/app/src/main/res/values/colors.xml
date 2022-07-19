@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#2196F3</color>
+    <!--    TODO: Warna UI Design-->
+    <color name="ultraMarineBlue">#4764E6</color>
+    <color name="skyBlueCrayola">#47CEE6</color>
+    <color name="purpleX11">#9447E6</color>
+    <color name="maizeCrayola">#E6C947</color>
+    <color name="cadmiumOrange">#E69447</color>
+    <color name="maximumGreenYellow">#CEE647</color>
+
+    <color name="violetBlueCrayola">#7c72ca</color>
+    <color name="ghostWhite">#f0f3ff</color>
+    <color name="beauBlue">#CBD4DE</color>
+    <color name="slateGray">#6d7280</color>
+    <color name="wildBlueYonder">#9aa3ca</color>
+    <color name="independece">#3f4458</color>
+    <color name="aliceBlue">#F0F6FA</color>
+    <color name="maximumBluePurple">#a899f3</color>
+
+    <color name="darkSkyBlue">#77b5bf</color>
+    <color name="tealBlue">#447c8c</color>
+    <color name="peachPuff">#fcd4b3</color>
+    <color name="uranianBlue">#B6DCFB</color>
+    <color name="skyMagenta">#BF78B6</color>
+
+    <color name="glaucous">#6b7fb5</color>
+</resources>
